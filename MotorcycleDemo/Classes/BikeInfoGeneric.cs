@@ -4,14 +4,15 @@ namespace MotorcycleDemo.Classes
 {
     internal class BikeInfoGeneric : IBikeInfo
     {
-        public int ManufacturerID { get; set; } = 0;
+        // All just dummy data
+        public int ManufacturerID { get; set; }
 
-        public string Manufacturer { get; set; } = "NotSet";
+        public string Manufacturer { get; set; } = "NotSet"; // Setting Default prevents non-nullable warning
 
         public string MakeAndModel { get; set; } = "NotSet";
 
-        public float Price { get; set; } = float.MinValue;
+        public float Price { get; set; }
 
-        public int EngineSize { get; set; } = 0;
+        public int EngineSize { get; set; }
     }
 }

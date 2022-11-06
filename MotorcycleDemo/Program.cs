@@ -16,11 +16,12 @@ namespace MotorcycleDemo
                     MakeAndModel = "Yamaha MT - 125",
                     Price = (float)2700.0,
                     EngineSize = 125,
-                }
+                },
             };
 
             YamahaMT125.StartEngine();
             YamahaMT125.Accelerate();
+            
             Thread.Sleep(10000);
             YamahaMT125.StopEngine();
             YamahaMT125.Decelerate();
