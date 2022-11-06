@@ -1,0 +1,15 @@
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\bin\Debug\net6.0\MotorcycleDemo.exe
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\bin\Debug\net6.0\MotorcycleDemo.deps.json
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\bin\Debug\net6.0\MotorcycleDemo.runtimeconfig.json
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\bin\Debug\net6.0\MotorcycleDemo.dll
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\bin\Debug\net6.0\MotorcycleDemo.pdb
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.AssemblyInfo.cs
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.dll
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\refint\MotorcycleDemo.dll
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.pdb
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\MotorcycleDemo.genruntimeconfig.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\MotorcycleDemo\obj\Debug\net6.0\ref\MotorcycleDemo.dll

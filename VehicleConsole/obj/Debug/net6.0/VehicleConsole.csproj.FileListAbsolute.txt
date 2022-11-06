@@ -1,0 +1,15 @@
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\bin\Debug\net6.0\VehicleConsole.exe
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\bin\Debug\net6.0\VehicleConsole.deps.json
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\bin\Debug\net6.0\VehicleConsole.runtimeconfig.json
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\bin\Debug\net6.0\VehicleConsole.dll
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\bin\Debug\net6.0\VehicleConsole.pdb
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.AssemblyInfo.cs
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.dll
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\refint\VehicleConsole.dll
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.pdb
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\VehicleConsole.genruntimeconfig.cache
+C:\Users\olive\source\repos\MotorcycleConsoleAppSln\VehicleConsole\obj\Debug\net6.0\ref\VehicleConsole.dll
