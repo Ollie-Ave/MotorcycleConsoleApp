@@ -14,7 +14,7 @@ namespace MotorcycleDemo.Classes
 
         public int CurrentSpeed { get; set; } = 0;
 
-        private Thread? EngineRuntimeThread;
+        private Thread? EngineRuntimeThread { get; set; }
 
         public void StartEngine()
         {
